@@ -6,3 +6,22 @@ Each solution is written with clarity, efficiency, and scalability in mind — f
 ### Language
 
 All solutions are in C++, following standard LeetCode structure (class Solution).
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Tree
+|  |
+| ------- |
+| [0669-trim-a-binary-search-tree](https://github.com/manyaa-fr/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0669-trim-a-binary-search-tree](https://github.com/manyaa-fr/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0669-trim-a-binary-search-tree](https://github.com/manyaa-fr/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0669-trim-a-binary-search-tree](https://github.com/manyaa-fr/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
+<!---LeetCode Topics End-->
